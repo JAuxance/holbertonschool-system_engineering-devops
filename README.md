@@ -2,7 +2,7 @@
 
 [![Holberton School](https://img.shields.io/badge/Holberton-School-ff0a78)](https://www.holbertonschool.com/)
 [![Made with Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://www.markdownguide.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#-license)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#license)
 
 > A collection of **System Administration**, **Networking** and **DevOps**
 > projects completed during the Holberton School curriculum — covering web
@@ -10,18 +10,18 @@
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 
-- [About](#-about)
-- [Projects](#-projects)
-- [Repository Structure](#-repository-structure)
-- [Requirements](#-requirements)
-- [Author](#-author)
-- [License](#-license)
+- [About](#about)
+- [Projects](#projects)
+- [Repository Structure](#repository-structure)
+- [Requirements](#requirements)
+- [Author](#author)
+- [License](#license)
 
 ---
 
-## 📖 About
+## About
 
 This repository gathers the hands-on projects from the **System Engineering &
 DevOps** track at Holberton School. Each project lives in its own directory and
@@ -33,7 +33,7 @@ monitor** the infrastructure that runs modern web applications.
 
 ---
 
-## 🚀 Projects
+## Projects
 
 | Project | Description |
 | ------- | ----------- |
@@ -53,7 +53,7 @@ explanation of the components, their roles and the trade-offs involved.
 
 ---
 
-## 🗂 Repository Structure
+## Repository Structure
 
 ```text
 holbertonschool-system_engineering-devops/
@@ -71,7 +71,7 @@ holbertonschool-system_engineering-devops/
 
 ---
 
-## 🛠 Requirements
+## Requirements
 
 - A **Markdown** reader to browse the design documents.
 - Familiarity with core infrastructure concepts: **DNS**, **HTTP/HTTPS**,
@@ -81,7 +81,7 @@ holbertonschool-system_engineering-devops/
 
 ---
 
-## 👤 Author
+## Author
 
 **Auxance Jourdan**
 
@@ -89,7 +89,7 @@ holbertonschool-system_engineering-devops/
 
 ---
 
-## 📝 License
+## License
 
 This project is licensed under the **MIT License** — feel free to use it for
 learning purposes.
