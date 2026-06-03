@@ -1,6 +1,6 @@
 # 3. Scale up
 
-![Scale up](./nom-de-mon-image.png)
+![Scale up](./3-scale_up.png)
 
 This design splits the components so that each one runs on its **own dedicated
 server**, and adds a **second load balancer** clustered with the first.

@@ -1,6 +1,6 @@
 # 0. Simple web stack
 
-![Simple web stack](./nom-de-mon-image.png)
+![Simple web stack](./0-simple_web_stack.png)
 
 A user visits **www.foobar.com**. The domain name resolves to the IP address
 `8.8.8.8`, which points to a **single server** that hosts everything: the web

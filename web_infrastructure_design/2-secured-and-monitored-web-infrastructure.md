@@ -1,6 +1,6 @@
 # 2. Secured and monitored web infrastructure
 
-![Secured and monitored web infrastructure](./nom-de-mon-image.png)
+![Secured and monitored web infrastructure](./2-secured_and_monitored_web_infrastructure.png)
 
 This design takes the distributed infrastructure from Task 1 and adds **three
 firewalls**, an **SSL certificate** to serve traffic over HTTPS, and **three

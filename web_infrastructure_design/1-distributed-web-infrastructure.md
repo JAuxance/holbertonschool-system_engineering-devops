@@ -1,6 +1,6 @@
 # 1. Distributed web infrastructure
 
-![Distributed web infrastructure](./nom-de-mon-image.png)
+![Distributed web infrastructure](./1-distributed_web_infrastructure.png)
 
 This design adds a **load balancer (HAProxy)** in front of **two servers**.
 Each server runs Nginx, the application server and the application files. The
